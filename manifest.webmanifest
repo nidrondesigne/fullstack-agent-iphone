@@ -1,0 +1,1 @@
+{"name":"Agent Local – Offline iPhone","short_name":"Agent Local","description":"Lokal agentprototyp med minne och röst","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#080e19","theme_color":"#080e19","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
